@@ -310,9 +310,9 @@ body {
 .right .balloon_two{
     position: absolute;
     top: 170px;
-    right: -65px;
+    right: -20px;
     z-index: -1;
-    transform: rotate(10deg);
+    width: 120px;
 }
 @keyframes balloon2 {
     0%,50%,100%{
