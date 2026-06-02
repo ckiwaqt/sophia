@@ -292,7 +292,6 @@ body {
     position: absolute;
     top: -70px;
     left: -70px;
-    animation: balloon1 2s infinite linear;
 }
 @keyframes balloon1{
     0%, 50%,100%{
@@ -314,7 +313,6 @@ body {
     right: -65px;
     z-index: -1;
     transform: rotate(10deg);
-    animation: balloon2 2s infinite linear;
 }
 @keyframes balloon2 {
     0%,50%,100%{
