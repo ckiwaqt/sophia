@@ -307,27 +307,6 @@ body {
         transform: rotate(-3deg);
     }
 }
-.right .balloon_two{
-    position: absolute;
-    top: 170px;
-    right: -65px;
-    z-index: 10;
-    width: 120px;
-}
-@keyframes balloon2 {
-    0%,50%,100%{
-        transform-origin: bottom left;
-        transform: rotate(10deg);
-    }
-    25%{
-        transform-origin: bottom left;
-        transform: rotate(7deg);
-    }
-    75%{
-        transform-origin: bottom left;
-        transform: rotate(13deg);
-    }
-}
 
 .decorate_star{
     position: absolute;
